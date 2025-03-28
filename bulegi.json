@@ -1,80 +1,80 @@
 {
-  "name": "NotAnotherAnimeTheme",
-  "description": "A port of NotAnotherAnimeTheme for Enmity.",
+  "name": "DawnSpace",
+  "description": "A more blue space theme.",
   "version": "1.2",
   "authors": [
     {
-      "name": "bukegfirl",
+      "name": "mortyick",
       "id": "705853948052897813"
     }
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#43b581",
-      "#23232d"
+      "#afc7e3",
+      "#060607"
     ],
     "HEADER_SECONDARY": [
-      "#f0f0f0",
-      "#3d4858"
+      "#c8c8c8",
+      "#4f5660"
     ],
     "TEXT_NORMAL": [
       "#FBFBFB",
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#43b581",
+      "#afc7e3",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#f0f0f0",
-      "#3d4858"
+      "#6f96c5",
+      "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
       "#dcddde",
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#359b6c",
-      "#1e1e38"
+      "#ffffff",
+      "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#3f946d",
+      "#6f96c5",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0a0c10",
+      "#0b101a",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0a0c10",
+      "#0b101a",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0a0c10",
+      "#161f28",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#14161b",
+      "#161f28",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#58a180",
+      "#6f96c5",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#121212",
+      "#161f28",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#121212",
+      "#161f28",
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0a0c10",
+      "#0b101a",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#0a0c10",
+      "#0b101a",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -118,15 +118,15 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#b6b6b6",
-      "#475d77"
+      "#c8c8c8",
+      "#6a7480"
     ],
     "TEXT_LINK": [
-      "#418b56",
-      "#000000"
+      "#babfeb",
+      "#161f28"
     ],
     "KEYBOARD": [
-      "#0f0c23",
+      "#0b101a",
       "#FFFFFF"
     ]
   },
@@ -134,25 +134,24 @@
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#f0f0f0",
-    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#bebee3",
     "PRIMARY_DARK_500": "#697eab",
-    "PRIMARY_DARK_600": "#17191b",
-    "PRIMARY_DARK_630": "#131519",
-    "PRIMARY_DARK_700": "#1a1b21",
-    "PRIMARY_DARK_800": "#13151a",
-    "BRAND_NEW": "#8bde86",
-    "STATUS_RED": "#c18ea4",
-    "STATUS_GREEN_600": "#87a2de",
-    "STATUS_YELLOW": "#c18ea4"
+    "PRIMARY_DARK_600": "#0b101a",
+    "PRIMARY_DARK_630": "#1a242e",
+    "PRIMARY_DARK_700": "#13161d",
+    "PRIMARY_DARK_800": "#202735",
+    "BRAND_NEW": "#1a242e",
+    "STATUS_RED": "#6f96c5",
+    "STATUS_GREEN_600": "#6f96c5"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#13151a"
+    "CHAT_GREY": "#0b101a"
   },
   "background": {
     "blur": 0.2,
     "url": "https://github.com/rai7776/dadkk4m4m3/blob/main/114379537_p0.jpg?raw=true",
-    "alpha": 1.0
+    "alpha": 0.5
   }
 }
